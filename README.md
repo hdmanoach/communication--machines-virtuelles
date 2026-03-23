@@ -30,7 +30,7 @@ sous **Debian**.
 # Cloner le dépôt
 git clone https://github.com/<votre-user>/<nom-du-depot>.git
 cd <nom-du-depot>
-
+```
 ---
 
 ## 📖 Contenu du rapport
